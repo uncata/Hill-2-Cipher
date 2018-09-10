@@ -1,0 +1,7 @@
+C:\Users\Saon\source\repos\Hill-2-Cipher\Hill-2-Cipher\bin\Debug\Hill-2-Cipher.exe.config
+C:\Users\Saon\source\repos\Hill-2-Cipher\Hill-2-Cipher\bin\Debug\Hill-2-Cipher.exe
+C:\Users\Saon\source\repos\Hill-2-Cipher\Hill-2-Cipher\bin\Debug\Hill-2-Cipher.pdb
+C:\Users\Saon\source\repos\Hill-2-Cipher\Hill-2-Cipher\obj\Debug\Hill-2-Cipher.csprojAssemblyReference.cache
+C:\Users\Saon\source\repos\Hill-2-Cipher\Hill-2-Cipher\obj\Debug\Hill-2-Cipher.csproj.CoreCompileInputs.cache
+C:\Users\Saon\source\repos\Hill-2-Cipher\Hill-2-Cipher\obj\Debug\Hill-2-Cipher.exe
+C:\Users\Saon\source\repos\Hill-2-Cipher\Hill-2-Cipher\obj\Debug\Hill-2-Cipher.pdb
